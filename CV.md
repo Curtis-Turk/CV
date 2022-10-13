@@ -1,21 +1,16 @@
 ## Curtis Turk
 
+[projects](#projects) | [makers](#makers) | [skills](#skills) | [work experience](#previous-work-experience) | [education](#education)
+
 I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
 ## Projects
 
 | Name                          | Description                  | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ |
-| **Travel-Lite**               | A webapp to help you make    | React, Tailwind, Cypress       |
-|                               | sustainable travel decisions | Google API, Travel advisor API |
-| ----------------------------- | ---------------------------- | ------------------------------ |
-| **Axylotls-AceBook**          | A social media site for      | Node, Express, MongoDB         |
-|                               | salamanders                  | Bootstrap, Cypress, Jest       |
-| ----------------------------- | ---------------------------- | ------------------------------ |
-| **Makers BnB**                | A AirBnB inspired            | Ruby, Sinatra, CSS             |  
-|                               | group project                |                                |
-| ----------------------------- | ---------------------------- | ------------------------------ |
-
+| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API  |
+| [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest|
+| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | A AirBnB inspired group project | Ruby, Sinatra, Rack, CSS   PreSql, Rspec, |  
 
 ## Makers
 
