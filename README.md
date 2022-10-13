@@ -6,7 +6,7 @@ I'm a creative and dynamic full stack developer who believes in building project
 
 ## Projects
 
-| Name                            | Description                  | Tech Stack / Tools             |
+| Name | Description | Tech Stack / Tools |
 | ------------------------------- | ---------------------------- | ------------------------------ |
 | [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API |
 | [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
