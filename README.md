@@ -1,7 +1,5 @@
 # 👋 Curtis Turk
 
-[projects](#🔭 Projects) | [makers](#makers) | [skills](#skills) | [work experience](#previous-work-experience) | [education](#education)
-
 I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
 I also have a wealth of experience from a diverse set of previous roles, such as 
