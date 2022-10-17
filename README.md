@@ -39,21 +39,26 @@ I love getting into the details to problem solve however I always have the proje
 
 ## Experience
 
-### Bike Mechanic *Sep 18 - Jul 22*
+### Bike Mechanic
+*Sep 18 - Jul 22*
 [Recyclistas](https://recyclistas.ca/) / [SantroVélo Cooperative](https://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/) / [The Cyclery Lewisham](https://www.thecyclerylewisham.com/)
 
-### Assistant Commerical Manager *May 16 – Sep 18*
+### Assistant Commerical Manager
+*May 16 – Sep 18*
 [The Art Printorium (Minalima)](https://minalima.com/)
 
-### Production Coordinator *Jan 12 – May 16*
+### Production Coordinator
+*Jan 12 – May 16*
 [House of Fairy Tales](http://houseoffairytales.org/)
 
 ## Education
 
-### Cégep du Vieux Montréal  *Nov 19 - Sep 20*
+### Cégep du Vieux Montréal
+*Nov 19 - Sep 20*
 Françisation - French level B1 
 
-### Anglo European *Sep 08 - Jul 10*
+### Anglo European 
+*Sep 08 - Jul 10*
 International Baccalaureate Diploma - 25
 
 ## Hobbies
