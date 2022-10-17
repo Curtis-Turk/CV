@@ -1,4 +1,4 @@
-# 👋 Curtis Turk
+# Curtis Turk
 
 I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
@@ -7,7 +7,7 @@ I also have a wealth of experience from a diverse set of previous roles, such as
 - A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. 
 - Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
 
-## 🔭 Projects
+## Projects
 
 | Name | Description | Tech Stack / Tools |
 | ------------------------------- | ---------------------------- | ------------------------------ |
@@ -17,13 +17,13 @@ I also have a wealth of experience from a diverse set of previous roles, such as
 | [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) | A tech test of OOP, TDD process | Node, Jest, ESlint |
 | [Gilded rose tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/gilded-rose) | A tech test of refactoring process | Node, Jest |
 
-## 🦆 Makers
+## Makers
 
 I've just completed a Makers academy intensive coding bootcamp where I honed my skills as a developer learning the value of test-driven, agile development with object oriented design. From SOLID principles to techniques like dependancy injection I can now confidenly navigate through complicated problem solving to come out with projects and code I feel proud of.
 
 Makers has pushed me to be comfortable to jump in and discover new libaries or techniques and given me the collaborative tools to work in any team, making the most of a wide range of skillsets and backgrounds.
 
-## ⚡ Skills 
+## Skills 
 
 ### Excellent Communicator
 
@@ -37,7 +37,7 @@ I continually re-invent myself and pick up many skills along the way, where my a
 
 I love getting into the details to problem solve however I always have the project goals, motivations and larger system in mind when I build.
 
-## 💫 Experience
+## Experience
 
 ### Bike Mechanic *Sep 18 - Jul 22*
 [Recyclistas](https://recyclistas.ca/) / [SantroVélo Cooperative](https://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/) / [The Cyclery Lewisham](https://www.thecyclerylewisham.com/)
@@ -48,7 +48,7 @@ I love getting into the details to problem solve however I always have the proje
 ### Production Coordinator *Jan 12 – May 16*
 [House of Fairy Tales](http://houseoffairytales.org/)
 
-## 🎓 Education
+## Education
 
 ### Cégep du Vieux Montréal  *Nov 19 - Sep 20*
 Françisation - French level B1 
@@ -56,7 +56,7 @@ Françisation - French level B1
 ### Anglo European *Sep 08 - Jul 10*
 International Baccalaureate Diploma - 25
 
-## 🥾 Hobbies
+## Hobbies
 
 I'm often found hiking in nature from the mountain ranges of the Himalayas to the Canadian Rockies to here in the UK in Cornwall or Scotland, I love exploring the wonder of distance and perspective.
 
