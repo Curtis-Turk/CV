@@ -1,21 +1,23 @@
 # Curtis Turk
 
-I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
+Hi 👋 i'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
 I also have a wealth of experience from a diverse set of previous roles, such as 
-- A bike mechanic where I learned how to break down, repair and fine tune a bike back to perfect running condition. 
-- A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. 
-- Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
+🚲 A bike mechanic where I learned how to break down, repair and fine tune a bike back to perfect running condition. 
+🖼️ A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. 
+🎪 Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
 
 ## Projects
 
 | Name | Description | Tech Stack / Tools |
 | ------------------------------- | ---------------------------- | ------------------------------ |
-| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API |
-| [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
-| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB inspired group project | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec |
-| [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) | A tech test of OOP, TDD process | Node, Jest, ESlint |
-| [Gilded rose tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/gilded-rose) | A tech test of refactoring process | Node, Jest |
+| 🚆[Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API |
+| 🦎 [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| 🏡 [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB inspired group project | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec |
+| 🏦 [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) | A tech test of OOP, TDD process | Node, Jest, ESlint |
+| 🎁 [Gilded rose tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/gilded-rose) | A tech test of refactoring process | Node, Jest |
+
+Find the rest of my projects [here](https://github.com/Curtis-Turk)
 
 ## Makers
 
