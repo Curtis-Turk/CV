@@ -55,10 +55,12 @@ I love getting into the details to problem solve however I always have the proje
 
 ### Cégep du Vieux Montréal
 *Nov 19 - Sep 20*
+
 Françisation - French level B1 
 
 ### Anglo European 
 *Sep 08 - Jul 10*
+
 International Baccalaureate Diploma - 25
 
 ## Hobbies
