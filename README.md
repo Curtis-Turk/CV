@@ -41,14 +41,17 @@ I love getting into the details to problem solve however I always have the proje
 
 ### Bike Mechanic
 *Sep 18 - Jul 22*
+
 [Recyclistas](https://recyclistas.ca/) / [SantroVélo Cooperative](https://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/) / [The Cyclery Lewisham](https://www.thecyclerylewisham.com/)
 
 ### Assistant Commerical Manager
 *May 16 – Sep 18*
+
 [The Art Printorium (Minalima)](https://minalima.com/)
 
 ### Production Coordinator
 *Jan 12 – May 16*
+
 [House of Fairy Tales](http://houseoffairytales.org/)
 
 ## Education
