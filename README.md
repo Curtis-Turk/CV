@@ -1,6 +1,6 @@
 # 👋 Curtis Turk
 
-[projects](#projects) | [makers](#makers) | [skills](#skills) | [work experience](#previous-work-experience) | [education](#education)
+[projects](#🔭 Projects) | [makers](#makers) | [skills](#skills) | [work experience](#previous-work-experience) | [education](#education)
 
 I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
@@ -16,8 +16,8 @@ I also have a wealth of experience from a diverse set of previous roles, such as
 | [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API |
 | [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
 | [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB inspired group project | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec |
-| [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) | A tech test of OOP, TDD process building a command line bank account | Node, Jest, ESlint |
-| [Gilded rose tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/gilded-rose) | A tech test to show refactoring process | Node, Jest |
+| [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) | A tech test of OOP, TDD process | Node, Jest, ESlint |
+| [Gilded rose tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/gilded-rose) | A tech test of refactoring process | Node, Jest |
 
 ## 🦆 Makers
 
