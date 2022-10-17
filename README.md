@@ -4,7 +4,10 @@
 
 I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
-I also have a wealth of experience from a diverse set of previous roles, such as a bike mechanic where I learned how to break down, repair and fine tune a bike back to perfect running condition. A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
+I also have a wealth of experience from a diverse set of previous roles, such as 
+- A bike mechanic where I learned how to break down, repair and fine tune a bike back to perfect running condition. 
+- A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. 
+- Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
 
 ## Projects
 
@@ -42,7 +45,7 @@ I continually re-invent myself and pick up many skills along the way, where my a
 [Recyclistas](https://recyclistas.ca/) / [SantroVélo Cooperative](https://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/) / [The Cyclery Lewisham](https://www.thecyclerylewisham.com/)
 
 ### Assistant Commerical Manager *May 16 – Sep 18*
-The Art Printorium ([Minalima](https://minalima.com/))
+[The Art Printorium (Minalima)](https://minalima.com/)
 
 ### Production Coordinator *Jan 12 – May 16*
 [House of Fairy Tales](http://houseoffairytales.org/)
