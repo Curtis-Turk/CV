@@ -2,6 +2,10 @@
 
 Hi 👋 i'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
+I've just completed a Makers academy intensive coding bootcamp where I honed my skills as a developer learning the value of test-driven, agile development with object oriented design. From SOLID principles to techniques like dependancy injection I can now confidenly navigate through complicated problem solving to come out with projects and code I feel proud of.
+
+Makers has pushed me to be comfortable to jump in and discover new libaries or techniques and given me the collaborative tools to work in any team, making the most of a wide range of skillsets and backgrounds.
+
 ## Projects
 
 | Name | Description | Tech Stack / Tools |
@@ -16,9 +20,12 @@ Find the rest of my projects [here](https://github.com/Curtis-Turk)
 
 ## Makers
 
-I've just completed a Makers academy intensive coding bootcamp where I honed my skills as a developer learning the value of test-driven, agile development with object oriented design. From SOLID principles to techniques like dependancy injection I can now confidenly navigate through complicated problem solving to come out with projects and code I feel proud of.
+16 week intensive coding bootcamp covering:
 
-Makers has pushed me to be comfortable to jump in and discover new libaries or techniques and given me the collaborative tools to work in any team, making the most of a wide range of skillsets and backgrounds.
+- Principles of Object-oriented design and test-driven development
+- Writing clean reliable and maintainable code
+- Git collaboration and pair programming
+- Agile development with sprints and iterative processes
 
 ## Skills 
 
@@ -75,6 +82,7 @@ International Baccalaureate Diploma
 ## Hobbies
 
 I'm often found hiking in nature from the mountain ranges of the Himalayas to the Canadian Rockies to here in the UK in Cornwall or Scotland, I love exploring the wonder of distance and perspective.
+
 
 
 
