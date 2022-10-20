@@ -2,11 +2,6 @@
 
 Hi 👋 i'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
-I also have a wealth of experience from a diverse set of previous roles, such as 
-- 🚲 A bike mechanic where I learned how to break down, repair and fine tune a bike back to perfect running condition. 
-- 🖼️ A commercial manager of a graphic design gallery pop-up which I had a role in everything from building stock systems for 3 lcoations of limited edition prints and stationery to initiating a complex staff rota for up to 25 staff members across the 4 floors of the space. 
-- 🎪 Finally to the production of live creative events; where I learned how to build props, interact with young people and teach artistic expression. 
-
 ## Projects
 
 | Name | Description | Tech Stack / Tools |
@@ -46,15 +41,24 @@ I love getting into the details to problem solve however I always have the proje
 
 [Recyclistas](https://recyclistas.ca/) / [SantroVélo Cooperative](https://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/) / [The Cyclery Lewisham](https://www.thecyclerylewisham.com/)
 
+- Repairing, Servicing and Rebuilding all kinds of bicycles using keen attention to detail and expert knowledge.
+- Working seamlessly on work orders, inventory and customer inquirys balancing a busy workload to a high standard.
+
 ### Assistant Commerical Manager
 *May 16 – Sep 18*
 
 [The Art Printorium (Minalima)](https://minalima.com/)
 
+- building stock systems from scratch for the 3 locations of limited edition prints and stationery.
+- Initiating a complex staff rota for up to 25 staff members across the 4 floors of the space.
+
 ### Production Coordinator
 *Jan 12 – May 16*
 
 [House of Fairy Tales](http://houseoffairytales.org/)
+
+- Building sets and props to be used in several live interactive exhibitons
+- Communicating and interacting with young people who took part in the events
 
 ## Education
 
@@ -66,7 +70,7 @@ Françisation - French level B1
 ### Anglo European 
 *Sep 08 - Jul 10*
 
-International Baccalaureate Diploma - 25
+International Baccalaureate Diploma
 
 ## Hobbies
 
