@@ -30,7 +30,7 @@ Something I now take for granted, my introduction to TDD has been completely rev
 
 - Git collaboration and pair programming
 
-Throughout the course I paired with members of the cohort to accelerate learning, reduce errors and additively tackle whatever projects we were working on at the time. Working with a pair
+Throughout the course I paired with members of the cohort to accelerate learning, reduce errors and additively tackle whatever projects we were working on at the time. Collaborating through GitHub and using Git on our group projects
 
 - Agile development with sprints and iterative processes
 - Covering
