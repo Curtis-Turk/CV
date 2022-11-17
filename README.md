@@ -36,7 +36,7 @@ Throughout the course I paired with members of the cohort to accelerate learning
 
 - Agile development with sprints and iterative processes
 
-My final project had one main goal; to encourage the use of alternative transportation to planes. Something at the start I wasn't clear how we were going to make that happen. Which meant it was vital to use these techniques to adapt rapidly and effectively depending on the needs of the project at the time. Whether it was making an MVP, learning a new framework or a spike to understand an API; the continuous planning and reassesment sessions enabled success.
+My final project had one main goal; to encourage the use of alternative transportation to planes. Although I had an initial concept I wasn't clear how we were going to make that happen in reality. Which meant it was vital to use these techniques to adapt rapidly and effectively depending on the needs of the project at the time. Whether it was making an MVP, learning a new framework or a spike to understand an API; the continuous planning and reassesment sessions enabled success.
 
 ## Skills
 
