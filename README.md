@@ -10,7 +10,7 @@ At Makers I learnt the value of test-driven, agile development with object-orien
 
 | Name                                                                                        | Description                                            | Tech Stack / Tools                                       |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| 🚆 [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite)                                | A webapp to help you make sustainable travel decisions | React, Tailwind, Cypress, Google API, Travel advisor API |
+| 🚆 [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite)                                | A webapp to help you make sustainable travel decisions https://travel-lite.vercel.app/  | React, Tailwind, Cypress, Google API, Travel advisor API |
 | 🏦 [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank)               | A tech test of OOP, TDD process                        | Node, Jest, ESlint                                       |
 | 🦎 [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)                  | A social media site for salamanders                    | Node, Express, MongoDB, Bootstrap, Cypress, Jest         |
 | 🏡 [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed)                         | An AirBnB-inspired group project                       | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec              |
