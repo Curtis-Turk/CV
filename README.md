@@ -24,17 +24,19 @@ Find the rest of my projects [here](https://github.com/Curtis-Turk)
 
 - Principles of Test-Driven Development and Object-Oriented Programming
 
-Something I now take for granted, my introduction to TDD has been completely revolutionary for my abilities to produce systematic, incremental code that I can be confident works. Building program logic now has a satisfying rhythm supported by the natural approach of breaking aspects of the code down into objects with unique responsibilities and attributes.
+Something I now take for granted, my introduction to TDD has been completely revolutionary for my abilities to produce systematic, incremental code that I can be confident works. Building program logic now has a satisfying rhythm supported by the natural approach of breaking aspects of the code down into objects with unique responsibilities and attributes. Throughout the course, building through tests enabled gradual step by step improvement that had the backing to ensure if code or a dependency changed some functionality, it would be found and debugged with ease.
 
 - Writing clean, reliable and maintainable code
 
-I realised how far I had come in this regard when I took a [tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) and was continually able to refactor my code to ensure single responsibility, descriptive functions or variables and pulling reused code into single functions.
+I realised how far I had come in this regard when I took a [tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank) and was continually able to refactor my code to ensure single responsibility, descriptive functions and variables. I understood where to pull reused code into functions that could be called where needed.
 
 - Git collaboration and pair programming
 
 Throughout the course I paired with members of the cohort to accelerate learning, reduce errors and additively tackle whatever projects we were working on at the time. Collaborating through GitHub and using Git on my [final group project](https://github.com/Curtis-Turk/Travel-lite) meant that I could build out and test features of the various APIs on branches whilst we always had a current working version of our main.
 
 - Agile development with sprints and iterative processes
+
+My final project had one main goal; to encourage the use of alternative transportation to planes. Something at the start I wasn't clear how we were going to make that happen. Which meant it was vital to use these techniques to adapt rapidly and effectively depending on the needs of the project at the time. Whether it was making an MVP, learning a new framework or a spike to understand an API; the continuous planning and reassesment sessions enabled success.
 
 ## Skills
 
